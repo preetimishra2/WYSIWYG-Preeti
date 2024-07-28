@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/WYSIWYG-Preeti/build/static/css/main.a3a006e7.css",
-    "main.js": "/WYSIWYG-Preeti/build/static/js/main.02f9e4f5.js",
-    "index.html": "/WYSIWYG-Preeti/build/index.html",
-    "main.a3a006e7.css.map": "/WYSIWYG-Preeti/build/static/css/main.a3a006e7.css.map",
-    "main.02f9e4f5.js.map": "/WYSIWYG-Preeti/build/static/js/main.02f9e4f5.js.map"
+    "main.css": "/WYSIWYG-Preeti/static/css/main.a3a006e7.css",
+    "main.js": "/WYSIWYG-Preeti/static/js/main.02f9e4f5.js",
+    "index.html": "/WYSIWYG-Preeti/index.html",
+    "main.a3a006e7.css.map": "/WYSIWYG-Preeti/static/css/main.a3a006e7.css.map",
+    "main.02f9e4f5.js.map": "/WYSIWYG-Preeti/static/js/main.02f9e4f5.js.map"
   },
   "entrypoints": [
     "static/css/main.a3a006e7.css",
