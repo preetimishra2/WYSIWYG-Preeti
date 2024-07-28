@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wysiwyg-preeti/static/css/main.a3a006e7.css",
+    "main.js": "/wysiwyg-preeti/static/js/main.02f9e4f5.js",
+    "index.html": "/wysiwyg-preeti/index.html",
+    "main.a3a006e7.css.map": "/wysiwyg-preeti/static/css/main.a3a006e7.css.map",
+    "main.02f9e4f5.js.map": "/wysiwyg-preeti/static/js/main.02f9e4f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3a006e7.css",
+    "static/js/main.02f9e4f5.js"
+  ]
+}
